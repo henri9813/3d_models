@@ -6,4 +6,5 @@ Scaled to 80% of original pieces because dac are smaller than ethernet cable.
 
 ## Library used
 
-https://github.com/proverbialsunrise/pySTL
+https://github.com/proverbialsunrise/pySTL : Python2 only !
+
